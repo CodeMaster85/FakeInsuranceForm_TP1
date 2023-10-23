@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class Form {
+public class Form {
+    public static void main(String[] args) {
+        new GUIWindow();
+    }
 }
