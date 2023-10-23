@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Form {
+package PACKAGE_NAME;
+public class Form {
 }
